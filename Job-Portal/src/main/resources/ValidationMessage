@@ -1,0 +1,3 @@
+user.name.absent = Name is null or blank.
+
+otp.invalid = OTP IS INVLAID.
