@@ -55,4 +55,6 @@ public class JobApi {
         jobService.chageAppStatus(application);
         return new ResponseEntity<>(new ResponseDTO("Application Status changed Successfully"), HttpStatus.OK);
     }
+
+
 }
